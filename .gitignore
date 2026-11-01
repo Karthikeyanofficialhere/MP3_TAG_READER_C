@@ -1,0 +1,17 @@
+Compiled executables
+*.exe
+*.out
+*.o
+mp3_tag_reader
+mp3_tag_editor
+
+Temporary files
+temp.mp3
+*.tmp
+*.log
+
+VS Code settings
+.vscode/
+
+Backup files
+*.bak
