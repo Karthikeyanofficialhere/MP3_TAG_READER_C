@@ -5,13 +5,13 @@
 mp3_tag_reader
 mp3_tag_editor
 
-Temporary files
+#Temporary files
 temp.mp3
 *.tmp
 *.log
 
-VS Code settings
+#VS Code settings
 .vscode/
 
-Backup files
+#Backup files
 *.bak
